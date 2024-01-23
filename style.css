@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+
+*{
+    margin:0;
+    padding: 0;
+    background-color: #141414;
+    background-color: ;
+
+}
+
+.main{
+    width: 320px;
+    height: 510px;
+    background-color: #1f1f1f;
+    border-radius: 10px;
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    
+
+}
+.main img{
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #1f1f1f;
+
+
+}
+.main .im{
+    text-align: center;
+    background-color: #1f1f1f;
+    margin-top: 10px;
+ 
+    
+}
+.content{
+    text-align: center;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    background-color: #1f1f1f;
+}
+.content h2{
+    font-size: 20px;
+    margin-top: 15px;
+    background-color: #1f1f1f;
+}
+.content h3{
+    font-size: 12px;
+    margin-top: 6px;
+    color:#afc663;
+    font-weight: 900;
+    background-color: #1f1f1f;
+}
+.content p{
+    font-size: 12px;
+    margin-top: 30px;
+    color:#b6b6b6;
+    background-color: #1f1f1f;
+}
+.content .apps .github{
+    width: 240px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #333333;
+    color: white;
+    margin: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.content .apps .linkedin{
+    width: 240px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #333333;
+    color: white;
+    margin: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.content .apps .front{
+    width: 240px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #333333;
+    color: white;
+    margin: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.content .apps .instagram{
+    width: 240px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #333333;
+    color: white;
+    margin: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.content .apps .twitter{
+    width: 240px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #333333;
+    color: white;
+    margin: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.content .apps .github a{
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    font-size: 12px;
+    text-align: center;
+    margin: 6px;
+    background-color: #333333;
+}
+.apps{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: #1f1f1f;
+
+}
+
+.content .apps .twitter a{
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    font-size: 12px;
+    text-align: center;
+    background-color: #333333;
+}
+.content .apps .instagram a{
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    font-size: 12px;
+    text-align: center;
+    background-color: #333333;
+}
+
+.content .apps .linkedin a{
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    font-size: 12px;
+    text-align: center;
+    background-color: #333333;
+}
+
+.content .apps .front a{
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    font-size: 12px;
+    text-align: center;
+    background-color: #333333;
+}
+
